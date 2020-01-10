@@ -1,3 +1,7 @@
+Project app as part of learning react using components. 
+
+Great little app that searches RoboFriends using https://jsonplaceholder.typicode.com/ 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
